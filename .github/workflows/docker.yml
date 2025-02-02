@@ -39,5 +39,5 @@ jobs:
           file: ./Dockerfile
           push: true
           tags: | #
-            PascuGalvan/practica_7.1:latest
-            ghcr.io/PascuGalvan/practica_7.1:latest
+            pascugalvan/practica_7.1:latest
+            ghcr.io/pascugalvan/practica_7.1:latest
